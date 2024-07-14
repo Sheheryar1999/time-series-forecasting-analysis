@@ -1,0 +1,9 @@
+numpy
+pandas
+neuralforecast
+statsforecast
+ipykernel
+matplotlib
+plotly
+pytorch
+streamlit
